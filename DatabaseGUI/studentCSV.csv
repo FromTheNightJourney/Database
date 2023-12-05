@@ -1,0 +1,13 @@
+studentID,studentName,dateofBirth,gender,address,phoneNumber,emailAddress,major,yearofStudy,admissionDate,TeacherNotes
+1,Alice Johnson,1999/3/25,Female,"321 Erumu St, WoobaLoo",55551111,alice.johnson@ouvalacademy.com,Biology,2,2022/8/15,"What a nerd"
+2,Bob Smith,2000/7/12,Male,"457 Maperu St, Hijaubare",55552222,bob.smith@ouvalacademy.com,Chemistry,1,2023/1/1,"What a nerd"
+3,Charlie Brown,1998/11/5,Male,"314 Desh St, Hirutop",55553333,charlie.brown@ouvalacademy.com,Physics,3,2021/9/10,"What a nerd"
+4,Diona Williams,2001/4/18,Female,"312 Ooku St, Gurenberu",55554444,diana.williams@ouvalacademy.com,Chemistry,2,2022/5/20,"What a nerd"
+5,Eva Davis,1997/9/20,Female,"132 Bachu St, Ribadeiru",55555555,eva.davis@ouvalacademy.com,Computer Science,4,2020/12/3,"What a nerd"
+6,Endru Ton,2000/8/12,Male,"413 Pontoi Sunur St, Jeekertu",55556666,endru.ton@ouvalacademy.com,Biology,1,2023/1/3,"What a nerd"
+7,Francis Miller,2002/8/10,Male,"789 Spurastic St, Randoumaiza",55556666,francis.miller@ouvalacademy.com,Physics,1,2023/3/8,"What a nerd"
+8,Grace Turner,1999/5/15,Female,"234 Shida St, Mepperuton",55557777,grace.turner@ouvalacademy.com,Physics,3,2021/7/22,"What a nerd"
+9,Henry Jackson,2000/12/3,Male,"876 Monetie St, Hirusaidu",55558888,henry.jackson@ouvalacademy.com,Chemistry,2,2022/2/14,"What a nerd"
+10,Sasa Sammy,2001/6/8,Female,"567 Art St, Soriibayu",55559999,ivy.anderson@ouvalacademy.com,Physics,2,2022/4/5,"What a nerd"
+11,James Lee,2002/2/14,Male,"678 Poin St, Hirusaidu",55551010,james.lee@ouvalacademy.com,Biology,1,2023/2/10,"What a nerd"
+
