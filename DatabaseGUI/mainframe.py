@@ -302,12 +302,17 @@ def showStats():
         
 def kennan():
     os.system('cls')
-    finalProduct = ''.join(random.shuffle(list("kennan")))
+    kennan = list("kennan")
+    random.shuffle(kennan)
+    finalProduct = ''.join(kennan)
     print("\n" + finalProduct)
     if finalProduct == "kennan":
         print("Huh. You managed to get the words in the right order. Huh.\n")
     else:
         print("That's it. What did you expect?\n")
+    print("Returning to the Menu.")
+    time.sleep(1.4)
+    helpMenu()
     print("Returning to the Menu.")
     time.sleep(1.4)
     helpMenu()
